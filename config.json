@@ -3,12 +3,16 @@
   "username": "ProWhiteGhost",
   "name": null,
   "userimg": "https://avatars2.githubusercontent.com/u/35390196?v=4",
-  "sort": "created",
+  "sort": "updated",
   "order": "asc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
